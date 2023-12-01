@@ -26,8 +26,4 @@ for i in input: # for one word
             pass
     num = str(nums[0]) + str(nums[-1])
 
-    print(i, "=", num)
-
     sum += int(num)
-
-print(sum)
