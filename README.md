@@ -14,7 +14,10 @@ Hardest one so far. Didn't know much about 2D arrays before this so learning the
 Easier than day 3. Haven't done the recursion thing yet.
 
 ## Day 5
-(Haven't done yet - looks very intimidating)
+Haven't done yet due to the puzzle looking very intimidating and me being very tired - might do later.
 
 ## Day 6
-Easiest one so far. Part 2 especially was very easy to implement. I think it could have been done with math but I just brute forced it lol
+Easiest one so far. Part 2 especially was very easy to implement. I think it could have been done with math but I just used brute force.
+
+## Day 7
+Still doing this one a few days later. Checking the cards' powers is annoying.
