@@ -9,3 +9,12 @@ A lot easier than day 1 in my opinion. Most time was spent on reading the file, 
 
 ## Day 3
 Hardest one so far. Didn't know much about 2D arrays before this so learning them took a lot of time. Once I had figured them out, the rest of part 1 and part 2 were very easy except for one very annoying bug related to numbers being in the same line in part 2 which is why I haven't completed it yet. I'll probably fix it and complete part 2 tomorrow.
+
+## Day 4
+Easier than day 3. Haven't done the recursion thing yet.
+
+## Day 5
+(Haven't done yet - looks very intimidating)
+
+## Day 6
+Easiest one so far. Part 2 especially was very easy to implement. I think it could have been done with math but I just brute forced it lol
